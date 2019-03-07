@@ -1,0 +1,13 @@
+{
+  "id": "fleep",
+  "name": "Fleep",
+  "version": "1.0.0",
+  "description": "Fleep",
+  "main": "index.js",
+  "author": "Andrey Kozhuhov <hello@cimpleo.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://fleep.io/chat",
+    "hasNotificationSound": true,
+  }
+}
