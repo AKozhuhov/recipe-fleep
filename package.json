@@ -8,6 +8,6 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://fleep.io/chat",
-    "hasNotificationSound": true,
+    "hasNotificationSound": true
   }
 }
